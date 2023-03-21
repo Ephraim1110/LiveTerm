@@ -1,4 +1,9 @@
 ---
 label: ooo
 hide_body: true
-fields: []
+fields:
+- name: sport
+  type: text
+  config:
+    required: false
+  label: SPORT
